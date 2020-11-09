@@ -1,10 +1,10 @@
 # Yelp Clone 
 
-## *Your name here*
+## *Yi Feng*
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: **X** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Functionality 
 
@@ -27,7 +27,7 @@ GIF created with Android Studio Screen Recording.
 
 ## Notes
 
-Working with the API is very interesting!
+Working with the API is very interesting! The challenging part is still the recyclerview. But it is getting better with more practice with it.
 
 ## License
 
